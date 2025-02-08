@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/slate@v0.2.0
 title: solimike's homepage
 description: Currently a pretty empty "hello-world" to gain familiarity with GitHub Pages!
+plugins:
+- jekyll-remote-theme
